@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student on Ecole 42<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
+🔭 I’m currently student at Ecole 42<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
 
 
 ## 🌐 Socials:
