@@ -33,7 +33,3 @@ I'm a student at Ecole 42 and I'm focused on developing my skills in the field o
 
 ![Emre Akdik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreakdik&show_icons=true&count_private=true&hide=stars&theme=radical)
 
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=emreakdik)
-
