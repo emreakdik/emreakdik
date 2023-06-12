@@ -1,21 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently student at Ecole 42<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
+# Hello, I'm Emre Akdik!
 
+I'm a student at Ecole 42 and I'm focused on developing my skills in the field of Data Science. I enjoy coming up with new ideas and bringing them to life.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emreakdikk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunusemreakdik)
+## Skills
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emreakdik&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emreakdik&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emreakdik&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Programming Languages: C, Python, Bash, Dart, Cobol
+- Operating Systems: Linux, MacOS, Windows
+- Data Analysis Tools: Pandas, NumPy, Scikit-learn
+- Data Visualization: Matplotlib, Seaborn
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Connect with Me
 
----
-[![](https://visitcount.itsvg.in/api?id=emreakdik&icon=0&color=0)](https://visitcount.itsvg.in)
+- LinkedIn: [linkedin.com/in/yunusemreakdik/](https://www.linkedin.com/in/yunusemreakdik/)
+- GitHub: [github.com/emreakdik](https://github.com/emreakdik)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Statistics
+
+[![Emre Akdik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreakdik&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/emreakdik)
