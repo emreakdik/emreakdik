@@ -3,10 +3,13 @@
 I am a student at Ecole 42. I'm so curious to learn all about data! Currently, I am trying to improve myself in C, Cobol and Python languages. Do not hesitate to contact me, even if it is to ask a question or teach me something!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=C,py,bash,linux,md,vim,cmake,flutter,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,linux,md,vim,cmake,flutter,git,)](https://skillicons.dev)
+
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
 ## Connect with Me
