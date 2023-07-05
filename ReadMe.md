@@ -1,35 +1,21 @@
 # Hello, I'm Emre Akdik!
 
-I'm a student at Ecole 42 and I'm focused on developing my skills in the field of Data Science. I enjoy coming up with new ideas and bringing them to life.
+I am a student at Ecole 42. I'm so curious to learn all about data! Currently, I am trying to improve myself in C, Cobol and Python languages. Do not hesitate to contact me, even if it is to ask a question or teach me something!
 
 ## Skills
-
-- Programming Languages: 
-   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-   ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-   ![Cobol](https://img.shields.io/badge/-Cobol-FF9900?style=flat-square&logo=c&logoColor=white)
-
-- Operating Systems: 
-   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-   ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-- Data Analysis Tools: 
-   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-   ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-- Data Visualization: 
-   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-   ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=C,py,bash,linux,md,vim,cmake,flutter,git,)](https://skillicons.dev)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
 ## Connect with Me
 
-- LinkedIn: [linkedin.com/in/yunusemreakdik/](https://www.linkedin.com/in/yunusemreakdik/)
+[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yunusemreakdik/)
+[![Connect](https://skillicons.dev/icons?i=discord)](calyptus42)
 
-## GitHub Statistics
+## Statistics
+
+[![yakdik's 42 stats](https://badge42.vercel.app/api/v2/cljpv5xq1001608mqvzllkarc/stats?cursusId=21&coalitionId=360)](https://github.com/JaeSeoKim/badge42)
 
 ![Emre Akdik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreakdik&show_icons=true&count_private=true&hide=stars&theme=radical)
 
