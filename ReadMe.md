@@ -6,12 +6,6 @@ I am a student at Ecole 42. I'm so curious to learn all about data! Currently, I
 [![My Skills](https://skillicons.dev/icons?i=c,py,bash,linux,md,vim,cmake,flutter,git,)](https://skillicons.dev)
 
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-
 ## Connect with Me
 
 [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yunusemreakdik/)
