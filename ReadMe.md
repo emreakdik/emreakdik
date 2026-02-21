@@ -3,7 +3,7 @@
 I am a student at Ecole 42. I'm so curious to learn all about data! Currently, I am trying to improve myself in C, Cobol and Python languages. Do not hesitate to contact me, even if it is to ask a question or teach me something!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,bash,linux,md,vim,cmake,flutter,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,md,vim,cmake,git,)](https://skillicons.dev)
 
 
 ## Connect with Me
