@@ -24,6 +24,18 @@ Feel free to reach out — whether it's a question, a project idea, or something
 
 </div>
 
+**Competencies gained at École 42** (Common Core, up to *cub3d*):
+- Advanced C programming & memory management
+- Algorithms & data structures (sorting, complexity optimization)
+- Linux system administration & security (Born2beroot)
+- Unix processes, signals & IPC (minitalk, minishell)
+- Concurrency: threads, mutexes, synchronization (Philosophers)
+- Computer graphics: raycasting engine with MLX (cub3d)
+- Git & collaborative workflows, 42 Norm coding standard
+
+**Currently exploring:**
+- 🤖 Vibe Coding — building with AI-assisted, prompt-driven development workflows
+
 ## Connect with Me
 
 <div align="center">
