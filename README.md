@@ -2,19 +2,21 @@
 
 # Hi, I'm Emre Akdik 👋
 
-### C Developer · Actively exploring Vibe Coding
+### Builder at Heart · Betting Early on Vibe Coding
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+things+in+C;Exploring+Vibe+Coding;Always+happy+to+chat+%E2%80%94+say+hi!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Turning+ideas+into+systems+in+C;Building+the+future+with+Vibe+Coding;Let%27s+build+something+great+together!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## Vision
 
-I write software in **C**, and I'm actively exploring **Vibe Coding** — building with AI-assisted, prompt-driven development workflows.
+I believe the next wave of great products will be built by people who master both the fundamentals and the frontier. I build solid, high-performance software in **C** — and I'm betting early on **Vibe Coding**, the AI-native way of turning ideas into products at a speed that used to be impossible.
 
-Feel free to reach out — whether it's a question, a project idea, or something you'd like to teach me, I'm always up for a conversation.
+My goal isn't just to write code — it's to build things that matter, ship fast, and never stop learning.
+
+Always open to bold ideas, ambitious projects, and people who want to build something real — let's talk.
 
 ## Skills
 
