@@ -2,9 +2,9 @@
 
 # Hi, I'm Emre Akdik 👋
 
-### Curious about data · Actively exploring Vibe Coding
+### C Developer · Actively exploring Vibe Coding
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+C%2C+COBOL+%26+Python;Exploring+data%2C+one+bit+at+a+time;Always+happy+to+chat+%E2%80%94+say+hi!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+things+in+C;Exploring+Vibe+Coding;Always+happy+to+chat+%E2%80%94+say+hi!)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm curious about all things data, and currently sharpening my skills in **C**, **COBOL**, and **Python**.
+I write software in **C**, and I'm actively exploring **Vibe Coding** — building with AI-assisted, prompt-driven development workflows.
 
 Feel free to reach out — whether it's a question, a project idea, or something you'd like to teach me, I'm always up for a conversation.
 
