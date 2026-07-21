@@ -45,11 +45,3 @@ Feel free to reach out — whether it's a question, a project idea, or something
 [![Discord](https://img.shields.io/badge/Discord-calyptus42-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/calyptus42)
 
 </div>
-
-## Statistics
-
-<div align="center">
-
-![Emre Akdik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreakdik&show_icons=true&count_private=true&hide=stars&theme=radical)
-
-</div>
