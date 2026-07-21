@@ -2,7 +2,7 @@
 
 # Hi, I'm Emre Akdik 👋
 
-### Former Student @ École 42 · Curious about data, always learning
+### Curious about data · Actively exploring Vibe Coding
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+C%2C+COBOL+%26+Python;Exploring+data%2C+one+bit+at+a+time;Always+happy+to+chat+%E2%80%94+say+hi!)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a former student of **École 42**, where I learned through its peer-to-peer, project-based curriculum. I'm curious about all things data, and currently sharpening my skills in **C**, **COBOL**, and **Python**.
+I'm curious about all things data, and currently sharpening my skills in **C**, **COBOL**, and **Python**.
 
 Feel free to reach out — whether it's a question, a project idea, or something you'd like to teach me, I'm always up for a conversation.
 
@@ -24,14 +24,14 @@ Feel free to reach out — whether it's a question, a project idea, or something
 
 </div>
 
-**Competencies gained at École 42** (Common Core, up to *cub3d*):
+**Competencies:**
 - Advanced C programming & memory management
 - Algorithms & data structures (sorting, complexity optimization)
-- Linux system administration & security (Born2beroot)
-- Unix processes, signals & IPC (minitalk, minishell)
-- Concurrency: threads, mutexes, synchronization (Philosophers)
-- Computer graphics: raycasting engine with MLX (cub3d)
-- Git & collaborative workflows, 42 Norm coding standard
+- Linux system administration & security
+- Unix processes, signals & IPC
+- Concurrency: threads, mutexes, synchronization
+- Computer graphics: raycasting engine with MLX
+- Git & collaborative workflows
 
 **Currently exploring:**
 - 🤖 Vibe Coding — building with AI-assisted, prompt-driven development workflows
@@ -49,8 +49,6 @@ Feel free to reach out — whether it's a question, a project idea, or something
 ## Statistics
 
 <div align="center">
-
-[![yakdik's 42 stats](https://badge42.vercel.app/api/v2/cljpv5xq1001608mqvzllkarc/stats?cursusId=21&coalitionId=360)](https://github.com/JaeSeoKim/badge42)
 
 ![Emre Akdik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreakdik&show_icons=true&count_private=true&hide=stars&theme=radical)
 
