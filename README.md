@@ -2,7 +2,7 @@
 
 # Hi, I'm Emre Akdik 👋
 
-### Student @ École 42 · Curious about data, always learning
+### Former Student @ École 42 · Curious about data, always learning
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+C%2C+COBOL+%26+Python;Exploring+data%2C+one+bit+at+a+time;Always+happy+to+chat+%E2%80%94+say+hi!)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a student at **École 42**, learning through peer-to-peer, project-based curriculum. I'm curious about all things data, and currently sharpening my skills in **C**, **COBOL**, and **Python**.
+I'm a former student of **École 42**, where I learned through its peer-to-peer, project-based curriculum. I'm curious about all things data, and currently sharpening my skills in **C**, **COBOL**, and **Python**.
 
 Feel free to reach out — whether it's a question, a project idea, or something you'd like to teach me, I'm always up for a conversation.
 
